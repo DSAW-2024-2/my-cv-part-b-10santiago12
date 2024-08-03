@@ -1,5 +1,5 @@
 Spicy👨🏼‍🍳
-C:\Users\PC\OneDrive\Desktop\Universidad\Tareas Semestre 4\Desarrollo Web\my-cv-part-b-10santiago12\css-dinner.jpg
+https://github.com/DSAW-2024-2/my-cv-part-b-10santiago12/blob/master/css-dinner.jpg
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Bw5l2ga8)
 # Bienvenidos a la Tarea de HTML y CSS
