@@ -3,6 +3,8 @@
 Spicy👨🏼‍🍳
 ![Foto](images/css-dinner.jpg)
 
+link de página desplegada: https://dsaw-2024-2.github.io/my-cv-part-b-10santiago12/
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
